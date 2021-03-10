@@ -1,0 +1,18 @@
+{
+	"students": [
+		
+		{"name":"Austin", "email":"austin@gmail.com", "school": "University of Pittsburgh"},  
+		{"name":"Bob", "email":"bob32@gmail.com", "school": "Penn State University"},  
+		{"name":"Wesley", "email":"wesley@gmail.com", "school": "Ohio State University"},
+		{"name":"Nova", "email":"nova@gmail.com", "school": "New York University"}, 
+		{"name":"Felicity", "email":"felicity@gmail.com", "school": "Stanford University"},
+		{"name":"Tim", "email":"tim@gmail.com", "school": "Stanford University"},
+		{"name":"Justin", "email":"justin@gmail.com", "school": "University of Pittsburgh"},
+		{"name":"William", "email":"william@gmail.com", "school": "University of Pittsburgh"},
+		{"name":"Harper", "email":"harper@gmail.com", "school": "Ohio State University"},
+		{"name":"James", "email":"james@gmail.com", "school": "New York University"}, 
+		{"name":"Mason", "email":"mason@gmail.com", "school": "Stanford University"},
+		{"name":"Ella", "email":"ella@gmail.com", "school": "Stanford University"},
+		{"name":"Jackson", "email":"jackson@gmail.com", "school": "University of Pittsburgh"} 
+	]
+}
