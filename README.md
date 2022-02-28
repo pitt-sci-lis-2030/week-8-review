@@ -1,2 +1,2 @@
-# week-8-data-formats
-Repository for the week 8 lecture materials and exercises on data formats
+# Week 8 Review 
+Repository for the week 8 lecture materials reviewing the course content so far.
